@@ -5,6 +5,7 @@ body {
   background-position: center;
   font-family: "Orbitron", sans-serif;
   font-optical-sizing: auto;
+  letter-spacing: 0.2rem;
 }
 
 h1 {
@@ -27,6 +28,7 @@ select {
   color: white;
   font-family: "Orbitron", sans-serif;
   font-optical-sizing: auto;
+  letter-spacing: 0.2rem;
 }
 
 .container {
@@ -52,6 +54,7 @@ select {
   border-bottom: 1px dashed whitesmoke;
   font-family: "Orbitron", sans-serif;
   font-optical-sizing: auto;
+  letter-spacing: 0.2rem;
 }
 
 .city:last-child {
